@@ -37,11 +37,10 @@ No complex tools. No texture painting. Just type, click, and create.
 ## 📸 Preview
 
 <p align="center">
-  <a href="https://youtu.be/qgY7qUSRQtQ" target="_blank">
-    <img src="https://img.youtube.com/vi/qgY7qUSRQtQ/maxresdefault.jpg" width="720" alt="Watch the Demo Video"/>
+  <a href="https://youtu.be/II3bCp5TlnQ" target="_blank">
+    <img src="https://img.youtube.com/vi/II3bCp5TlnQ/maxresdefault.jpg" width="720" alt="Watch the Demo Video"/>
   </a>
 </p>
-
 
 ---
 
