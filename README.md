@@ -1,8 +1,8 @@
 <p align="center">
-  <img src=".github/assets/icon.png" width="180" alt="MateriAI Logo"/>
+  <img src=".github/assets/favicon.png" width="180" alt="MateriAI Logo"/>
 </p>
 
-<h2 align="center">MateriAI – AI Material Generator for Unity</h2>
+<h2 align="center">MateriAI – AI Material Generator for Unreal</h2>
 
 <p align="center">
   <a href="https://matgenai.com/">🌐 Try It Online</a>
@@ -41,14 +41,6 @@ No complex tools. No texture painting. Just type, click, and create.
     <img src="https://img.youtube.com/vi/II3bCp5TlnQ/maxresdefault.jpg" width="720" alt="Watch the Demo Video"/>
   </a>
 </p>
-
----
-
-## 📥 Installation
-
-1. Download the latest `.unitypackage` from the [Releases](https://github.com/Olivera2708/MateriAIUnity/releases)
-2. In Unity, go to `Assets > Import Package > Custom Package...`
-3. Select the file and import all
 
 ---
 
