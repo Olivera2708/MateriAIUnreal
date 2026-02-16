@@ -28,7 +28,7 @@ No complex tools. No texture painting. Just type, click, and create.
 - 🖼️ Optional reference image input for style control
 - 🧱 2D live previews
 - 💾 One-click saving to project
-- 🛠️ Built-in Render Pipeline support *(URP & HDRP coming soon)*
+- 🛠️ Built-in Render Pipeline support
 
 > It's simple. It's fast. It's built for creators.
 
@@ -50,6 +50,12 @@ MateriAI is free to use in **personal and commercial Unity projects**.
 Redistribution, resale, or uploading to asset stores is **not permitted**.
 
 See [LICENSE.md](./LICENSE.md) for full terms.
+
+---
+
+## Note
+
+**Tested on Unreal 5.5**
 
 ---
 
