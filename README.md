@@ -46,7 +46,7 @@ No complex tools. No texture painting. Just type, click, and create.
 
 ## 📄 License
 
-MateriAI is free to use in **personal and commercial Unity projects**.  
+MateriAI is free to use in **personal and commercial Unreal projects**.  
 Redistribution, resale, or uploading to asset stores is **not permitted**.
 
 See [LICENSE.md](./LICENSE.md) for full terms.
