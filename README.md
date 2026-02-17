@@ -53,12 +53,6 @@ See [LICENSE.md](./LICENSE.md) for full terms.
 
 ---
 
-## Note
-
-**Tested on Unreal 5.5**
-
----
-
 ## 💬 Contact
 
 We’d love your feedback and suggestions!
